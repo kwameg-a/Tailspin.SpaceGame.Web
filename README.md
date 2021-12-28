@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/kg-mslearn/Tailspin/_apis/build/status/kwameg-a.Tailspin.SpaceGame.Web?branchName=master)](https://dev.azure.com/kg-mslearn/Tailspin/_build/latest?definitionId=14&branchName=master)
 
 # Contributing
 
